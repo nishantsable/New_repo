@@ -7,6 +7,8 @@ public class test147 {
 
 		
 		System.out.println("1");
+		
+		System.out.println("123");
 	}
 
 }
